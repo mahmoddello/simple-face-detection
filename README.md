@@ -1,4 +1,6 @@
 # Simple Face Detection 
+![img](https://user-images.githubusercontent.com/102472934/210349737-dcaefcde-899a-4581-a1ae-248afb0839fb.gif)
+
 ## Goal of this Script
 This Script will detect only the frontal faces in a video or the faces that are in front of the opened camera.
 > The required and used library in this script is a computer vision library called [OpenCV](https://opencv.org/).
