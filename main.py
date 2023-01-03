@@ -1,9 +1,4 @@
-import pathlib
 import cv2 as cv
-
-cascade_path = pathlib.Path(
-    cv.__file__).parent.absolute() / r"C:\Users\Zeus\anaconda3\Lib\haarcascade_frontalface_default.xml"
-print(cascade_path)
 
 # Build classifier
 
